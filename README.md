@@ -1,0 +1,2 @@
+많이 사용하는 문법 링크
+https://velog.io/@sean2337/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%AC%B8%EB%B2%95-JavaScript%ED%8E%B8
