@@ -5,3 +5,4 @@ function solution(numbers) {
 }
 
 // reduce함수 숙지 필요!
+// 내장함수를 잘 공부하고 가야할듯합니다
