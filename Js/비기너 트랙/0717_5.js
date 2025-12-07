@@ -1,5 +1,6 @@
 // 양꼬치
 
+//n은 양꼬치, k는 음료수
 function solution(n, k) {
   service = Math.floor(n / 10);
 
